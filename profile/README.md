@@ -9,6 +9,10 @@
 - **Frameworks & Tools**: NestJS, Angular, Next.js
 ---
 
+## ☕ Donate Me
+
+If you find my work helpful or want to support future projects:
+
 - ☕ [Buy Me a Coffee](https://buymeacoffee.com/gersur)
 - 💖 [Sponsor Me on GitHub](https://github.com/sponsors/gersur)
 
