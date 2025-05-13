@@ -9,9 +9,8 @@
 - **Frameworks & Tools**: NestJS, Angular, Next.js
 ---
 
-## 💬 Let's Connect
-
-- 📷 [Instagram](https://www.instagram.com/gersur/)
+- ☕ [Buy Me a Coffee](https://buymeacoffee.com/gersur)
+- 💖 [Sponsor Me on GitHub](https://github.com/sponsors/gersur)
 
 ---
 
