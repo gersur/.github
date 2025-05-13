@@ -7,7 +7,6 @@
 ## 🛠️ Tech Stack
 - **Languages**: TypeScript, C#
 - **Frameworks & Tools**: NestJS, Angular, Next.js
-- 
 ---
 
 ## 💬 Let's Connect
